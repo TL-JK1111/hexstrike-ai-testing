@@ -5,7 +5,7 @@
 # CORE FRAMEWORK DEPENDENCIES
 # ============================================================================
 flask==2.3.3                    # Web framework for API server
-requests==2.31.0                # HTTP library for API calls and tool integration
+requests==2.32.4                # HTTP library for API calls and tool integration
 psutil==5.9.5                   # System and process utilities for monitoring
 fastmcp==0.2.0                  # Model Context Protocol framework for AI agents
 
@@ -20,8 +20,8 @@ scipy==1.11.2                   # Scientific computing and statistical analysis
 # ============================================================================
 # NETWORKING & HTTP ENHANCED
 # ============================================================================
-urllib3==2.0.4                  # HTTP client library with connection pooling
-certifi==2023.7.22              # Certificate authority bundle
+urllib3==2.5.0                  # HTTP client library with connection pooling
+certifi==2024.7.4              # Certificate authority bundle
 charset-normalizer==3.2.0       # Character encoding detection
 httpx==0.24.1                   # Modern HTTP client for async operations
 aiohttp==3.8.5                  # Async HTTP client/server framework
