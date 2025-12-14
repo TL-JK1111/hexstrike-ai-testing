@@ -20,7 +20,7 @@ scipy==1.11.2                   # Scientific computing and statistical analysis
 # ============================================================================
 # NETWORKING & HTTP ENHANCED
 # ============================================================================
-urllib3==2.0.4                  # HTTP client library with connection pooling
+urllib3==2.6.0                  # HTTP client library with connection pooling
 certifi==2023.7.22              # Certificate authority bundle
 charset-normalizer==3.2.0       # Character encoding detection
 httpx==0.24.1                   # Modern HTTP client for async operations
