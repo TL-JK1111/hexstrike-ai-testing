@@ -135,7 +135,7 @@ docker==6.1.3                   # Docker SDK for Python
 # ============================================================================
 # AI & MACHINE LEARNING ENHANCED (v6.0 NEW!)
 # ============================================================================
-torch==2.0.1                    # PyTorch deep learning framework for AI agents
+torch==2.10.0                    # PyTorch deep learning framework for AI agents
 transformers==4.33.2            # Hugging Face transformers for NLP and AI analysis
 sentence-transformers==2.2.2    # Sentence embeddings for semantic analysis
 scikit-learn==1.3.0             # Machine learning library for pattern recognition
@@ -272,3 +272,4 @@ sublist3r==1.1                  # Subdomain enumeration tool
 # 6. AI features require API keys for OpenAI/Anthropic services (optional)
 # 
 # For complete installation instructions and setup guides, see README.md
+sentencepiece>=0.2.1 # not directly required, pinned by Snyk to avoid a vulnerability
