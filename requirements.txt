@@ -47,7 +47,7 @@ structlog==23.1.0               # Structured logging for better analysis
 # ============================================================================
 # SECURITY & CRYPTOGRAPHY ENHANCED
 # ============================================================================
-cryptography==41.0.4            # Cryptographic recipes and primitives
+cryptography==46.0.5            # Cryptographic recipes and primitives
 pycryptodome==3.18.0            # Cryptographic library with additional algorithms
 hashlib-compat==1.0.1           # Hash function compatibility layer
 bcrypt==4.0.1                   # Password hashing library
@@ -204,7 +204,7 @@ volatility3==2.4.1              # Memory forensics framework
 hashid==3.1.4                   # Hash identifier
 john==1.9.0                     # John the Ripper Python bindings
 hashcat-utils==1.9              # Hashcat utilities
-cryptography==41.0.4            # Modern cryptography library
+cryptography==46.0.5            # Modern cryptography library
 
 # ============================================================================
 # OSINT & RECONNAISSANCE
